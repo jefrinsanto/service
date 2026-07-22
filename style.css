@@ -381,7 +381,7 @@ p{
 .row2{
     display: flex;
     width: 100%;
-    height: 600px;
+    height: 400px;
     margin-top: -300px;
     background-color: whitesmoke;
 
@@ -411,4 +411,26 @@ p{
 .img3:hover{
     cursor: pointer;
     transform: scale(1.1);
+}
+/*---------------------------------------------*/
+
+.tab{
+    width: 100%;
+    height: 400px;
+    color: white;
+}
+.tabhead{
+    color: #1F2937;
+    margin-left: 33%;
+    margin-top: 50px;
+}
+.t2 {
+    color: #1F2937;
+    display: block;
+    background-color: ivory;
+    color: black;
+    margin-left: 110px;
+    margin-right: 200px;
+    font-size: 50px;
+    margin-top: 40px;
 }
